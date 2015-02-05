@@ -1,0 +1,12 @@
+{
+    "name": "kassner/magento2-correios",
+    "description": "Magento 2 Correios shipping module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Kassner",
+            "email": "kassner@gmail.com"
+        }
+    ],
+    "require": {}
+}
